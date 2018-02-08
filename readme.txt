@@ -2,4 +2,8 @@ Hello git world~!
 after delete
 git learning
 everyday working hard
-this is in dev branch added & safe
+<<<<<<< HEAD
+this is in dev branch added and safe
+=======
+this is in dev branch added and safe
+>>>>>>> feature1
