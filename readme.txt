@@ -1,7 +1,7 @@
 Hello git world~!
 after delete
-git learning
-everyday working hard
+git learning and study
+everyday working hard 
 <<<<<<< HEAD
 this is in dev branch added and safe
 =======
